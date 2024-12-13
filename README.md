@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RAJSHARMA2009
 - 👀 I’m interested in coding, hacking and data science
 - 🌱 I’m currently learning in 10th class
-- 💞️ I’m looking to collaborate on hacking
+- 💞️ I’m looking to collaborate on hacking and programming
+  
 - 📫 How to reach me ...
 rsgrajsharma@gmail.com
 <!---
